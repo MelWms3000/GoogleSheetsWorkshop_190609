@@ -1321,13 +1321,13 @@ body {
   border-top-color: #3369e8;
 }
 .cid-rsURE6ScHI .navbar {
-  background: #efeeee;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rsURE6ScHI .navbar-dropdown.bg-color.transparent.opened {
-  background: #efeeee;
+  background: #ffffff;
 }
 .cid-rsURE6ScHI a {
   font-style: normal;
@@ -1430,7 +1430,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rsURE6ScHI .dropdown .dropdown-menu {
-  background: #efeeee;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1997,7 +1997,7 @@ body {
 .cid-rsUZyA20pD {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #efeeee;
+  background-color: #009939;
 }
 .cid-rsUZyA20pD .media-container-row .mbr-text {
   color: #333333;
