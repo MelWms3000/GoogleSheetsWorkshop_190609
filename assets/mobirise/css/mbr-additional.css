@@ -1880,11 +1880,11 @@ body {
   max-width: 600px;
 }
 .cid-rsV1mHmaul H1 {
-  color: #009939;
+  color: #3369e8;
 }
 .cid-rsV1mHmaul .mbr-text,
 .cid-rsV1mHmaul .mbr-section-btn {
-  color: #009939;
+  color: #000000;
 }
 .cid-rsV1mHmaul H3 {
   color: #333333;
@@ -1908,7 +1908,7 @@ body {
 .cid-rsV7113fuf {
   padding-top: 90px;
   padding-bottom: 75px;
-  background-color: #009939;
+  background-color: #3369e8;
 }
 .cid-rsV7113fuf .mbr-overlay {
   background-color: #ffffff;
@@ -1933,7 +1933,7 @@ body {
 .cid-rsV7113fuf .form-control,
 .cid-rsV7113fuf .field-input {
   padding: 0.5rem;
-  background-color: #009939;
+  background-color: #3369e8;
   border-color: #cccccc;
   color: #000000;
   transition: 0.4s;
@@ -1960,7 +1960,7 @@ body {
 }
 .cid-rsV7113fuf .jq-selectbox li,
 .cid-rsV7113fuf .jq-selectbox li {
-  background-color: #009939;
+  background-color: #3369e8;
   color: #ffffff;
 }
 .cid-rsV7113fuf .jq-selectbox li:hover,
@@ -1969,7 +1969,7 @@ body {
   color: #000000;
 }
 .cid-rsV7113fuf .jq-selectbox:hover .jq-selectbox__trigger-arrow {
-  border-top-color: #009939;
+  border-top-color: #3369e8;
 }
 .cid-rsV7113fuf .jq-selectbox .jq-selectbox__trigger-arrow {
   border-top-color: #ffffff;
