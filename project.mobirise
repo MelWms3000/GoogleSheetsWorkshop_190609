@@ -610,6 +610,12 @@
             },
             "H3": {
               "color": "#ffffff"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#eeb211"
             }
           },
           "_name": "header002",
